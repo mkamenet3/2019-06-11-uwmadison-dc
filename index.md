@@ -160,6 +160,14 @@ special instructions.
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
+<p>
+  If you are a student and the workshop fee is unaffordable for you,
+  ask your advisor if they have funds to cover the cost as
+  this is considered professional development.  If your advisor does not
+  have funds to cover this cost or or you are not able to ask them about
+  the cost and you can not afford the workshop, please contact us at the
+  address below to apply for a special assitance fee waiver.
+</p>
 
 {% comment %}
 CONTACT EMAIL ADDRESS
